@@ -1,0 +1,223 @@
+h1, h2,  {
+  background-color: lightgreen;
+}
+#example9{
+  background-color: lightgreen;
+}
+
+h1 {
+  border-block: 5px solid red;
+  width: 1000px;
+}
+
+h2 {
+  border-block: 4px dotted blue;
+  width: 1000px;
+}
+
+ #example9{
+  border-block: double;
+  width: 1000px;
+}
+ #example10 h2{
+  background-color: pink;
+  inline-size: 70%;
+  border-block-width: 10px;
+  width: 1000px;
+}
+
+#example1 p {
+  border-block-style: solid;
+  border-block-color: pink;
+  width: 1000px;
+}
+
+#example2 p{
+  border-block-style: solid;
+  border-block-color: pink lightblue;
+  width: 1000px;
+}
+
+ #example11{
+  background-color: lightgreen;
+  
+  border-block-end: 10px pink solid;
+  width: 1000px;
+}
+span{
+  font-size: 50px;
+}
+
+#example12 {
+  background-color: lightgreen;
+  inline-size: 70%;
+  border-block-end-style: solid;
+  border-block-end-width: 20px;
+  width: 1000px;
+}
+
+#example13{
+  background-color: lightgreen;
+  inline-size: 70%;
+  border-block-start: 10px pink solid;
+  width: 1000px;
+}
+#example14 {
+  background-color: lightgreen;
+  inline-size: 70%;
+  border-block-start-width: 10px;
+  border-block-start-style: solid;
+  border-block-start-color: pink;
+  width: 1000px;
+}
+#example15 {
+  background-color: lightgreen;
+  inline-size: 70%;
+  border-block-start-width: 10px;
+  border-block-start-style: dotted;
+  width: 1000px;
+}
+#example16 {
+  background-color: lightgreen;
+  inline-size: 70%;
+  border-block-start-style: solid;
+  border-block-start-width: 15px;
+  width: 1000px;
+}
+#example17 {
+  background-color: lightgreen;
+  inline-size: 70%;
+  border-block-width: 5px;
+   border-block-style: solid;
+   width: 1000px;
+}
+#example18 {
+  background-color: lightgreen;
+  inline-size: 70%;
+  border-block-width: 5px;
+  border-block-style: dashed dotted;
+  width: 1000px;
+}
+#example19 {
+  background-color: lightgreen;
+  inline-size: 70%;
+ border-block-style: solid;
+  border-block-width: 10px;
+  width: 1000px;
+}
+#example20 {
+  background-color: lightgreen;
+  inline-size: 70%;
+   border-block-style: solid;
+  border-block-width: thin thick;
+  width: 1000px;
+}
+
+ #example21{
+  border-bottom: 5px solid red;
+  width: 1000px;
+}
+
+#example22{
+  border-bottom: 4px dotted blue;
+  width: 1000px;
+}
+
+#example23{
+  border-bottom: double;
+  width: 1000px;
+}
+#example24 {
+  border: 2px solid red;
+  padding: 10px;
+  border-bottom-left-radius: 25px;
+  width: 1000px;
+}
+
+#example25 {
+  border: 2px solid red;
+  padding: 10px;
+  border-bottom-left-radius: 50px 20px;
+  width: 1000px;
+}
+#example26 {
+  border: 2px solid red;
+  padding: 10px;
+ border-bottom-right-radius: 25px;
+width: 1000px;
+}
+
+#example27 {
+  border: 2px solid red;
+  padding: 10px;
+  border-bottom-right-radius: 50px 20px;
+  width: 1000px;
+}
+table, td, th {
+  border: 1px solid black;
+}
+
+#table1 {
+  border-collapse: separate;
+}
+
+#table2 {
+  border-collapse: collapse;
+}
+#example28 {
+  background-color: lightblue;
+  height: 100px;
+  width: 200px;
+  border-end-end-radius: 50px;
+}
+
+#example29 {
+  background-color: lightblue;
+  height: 100px;
+  width: 200px;
+  border-end-end-radius: 50px 20px;
+}
+
+#example30 {
+  background-color: lightblue;
+  height: 100px;
+  width: 200px;
+  border-end-end-radius: 50%;
+  direction: rtl;
+}  
+#example31 {
+  background-color: lightblue;
+  height: 100px;
+  width: 200px;
+  border-end-end-radius: 50%;
+  writing-mode: vertical-rl;
+}
+#example32 {
+  background-color: lightblue;
+  height: 100px;
+  width: 200px;
+  border-end-start-radius: 50px;
+}
+
+#example33 {
+  background-color: lightblue;
+  height: 100px;
+  width: 200px;
+  border-end-start-radius: 50px 20px;
+}
+
+#example34 {
+  background-color: lightblue;
+  height: 100px;
+  width: 200px;
+  border-end-start-radius: 50%;
+  direction: rtl;
+}  
+
+#example35 {
+  background-color: lightblue;
+  height: 100px;
+  width: 200px;
+  border-end-start-radius: 50%;
+  writing-mode: vertical-rl;
+}

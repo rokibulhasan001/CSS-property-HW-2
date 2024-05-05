@@ -1,0 +1,6 @@
+1. html favicon link img size 30px 30px
+2. html listing 
+3. html block element, inline element, inline-block element, display property,4.
+4. html layout float left, float right, float none, over flow, clear-fix,
+5. div+header, min-height, max-height. min-width, max-width, 
+6. css code coments   /**/ 
